@@ -1,0 +1,73 @@
+// Vitest Snapshot v1
+
+exports[`SortingIndicator > should render correctly with ascending direction 1`] = `
+<DocumentFragment>
+  .emotion-0 {
+  width: 20px;
+  height: 20px;
+}
+
+<svg
+    class="emotion-0 emotion-1"
+    viewBox="0 0 312.85 385.74"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M18.26 174.61H294.6c16.23 0 24.355-19.617 12.879-31.094L169.309 5.336c-7.113-7.113-18.645-7.113-25.762 0L5.377 143.516C-6.092 154.993 2.033 174.61 18.26 174.61z"
+      fill="#707070"
+    />
+    <path
+      d="M5.38 242.23l138.17 138.18c7.113 7.11 18.648 7.11 25.762 0l138.17-138.18c11.477-11.473 3.352-31.094-12.879-31.094H18.253c-16.227 0-24.352 19.621-12.879 31.094z"
+      fill="#dddddd"
+    />
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`SortingIndicator > should render correctly with descending direction 1`] = `
+<DocumentFragment>
+  .emotion-0 {
+  width: 20px;
+  height: 20px;
+}
+
+<svg
+    class="emotion-0 emotion-1"
+    viewBox="0 0 312.85 385.74"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M18.26 174.61H294.6c16.23 0 24.355-19.617 12.879-31.094L169.309 5.336c-7.113-7.113-18.645-7.113-25.762 0L5.377 143.516C-6.092 154.993 2.033 174.61 18.26 174.61z"
+      fill="#dddddd"
+    />
+    <path
+      d="M5.38 242.23l138.17 138.18c7.113 7.11 18.648 7.11 25.762 0l138.17-138.18c11.477-11.473 3.352-31.094-12.879-31.094H18.253c-16.227 0-24.352 19.621-12.879 31.094z"
+      fill="#707070"
+    />
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`SortingIndicator > should render correctly without direction 1`] = `
+<DocumentFragment>
+  .emotion-0 {
+  width: 20px;
+  height: 20px;
+}
+
+<svg
+    class="emotion-0 emotion-1"
+    viewBox="0 0 312.85 385.74"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M18.26 174.61H294.6c16.23 0 24.355-19.617 12.879-31.094L169.309 5.336c-7.113-7.113-18.645-7.113-25.762 0L5.377 143.516C-6.092 154.993 2.033 174.61 18.26 174.61z"
+      fill="#dddddd"
+    />
+    <path
+      d="M5.38 242.23l138.17 138.18c7.113 7.11 18.648 7.11 25.762 0l138.17-138.18c11.477-11.473 3.352-31.094-12.879-31.094H18.253c-16.227 0-24.352 19.621-12.879 31.094z"
+      fill="#dddddd"
+    />
+  </svg>
+</DocumentFragment>
+`;

@@ -1,0 +1,13 @@
+// Vitest Snapshot v1
+
+exports[`CountryFlag > should render correctly 1`] = `
+<DocumentFragment>
+  <img
+    alt="PL"
+    height="20px"
+    loading="lazy"
+    src="/node_modules/country-flag-icons/3x2/PL.svg"
+    width="30px"
+  />
+</DocumentFragment>
+`;

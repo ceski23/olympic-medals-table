@@ -1,0 +1,59 @@
+// Vitest Snapshot v1
+
+exports[`Input > should render correctly 1`] = `
+<DocumentFragment>
+  .emotion-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.emotion-2 {
+  font-size: 0.9rem;
+  margin-bottom: 5px;
+  color: #707070;
+}
+
+.emotion-4 {
+  border-radius: 5px;
+  border: 1px solid #b6b6b6;
+  padding: 10px 15px;
+  font-size: 1rem;
+  box-shadow: 3px 3px 7px #dddddd;
+}
+
+.emotion-6 {
+  color: red;
+  font-size: 0.8rem;
+  margin-top: 5px;
+}
+
+<div
+    class="emotion-0 emotion-1"
+  >
+    <label
+      class="emotion-2 emotion-3"
+      for="test"
+    >
+      Test
+    </label>
+    <input
+      aria-describedby="test-error"
+      aria-invalid="true"
+      class="emotion-4 emotion-5"
+      id="test"
+    />
+    <div
+      class="emotion-6 emotion-7"
+      id="test-error"
+      role="alert"
+    >
+      Error
+    </div>
+  </div>
+</DocumentFragment>
+`;
