@@ -8,6 +8,9 @@
 3. Run project: `npm run dev`
 4. In browser open: [http://localhost:5173](http://localhost:5173)
 
+> **Note**
+> App has built-in preset with results of 2020 Olympic Games. To load it append `?preset=2020` to url eg. https://olympic-medals-table-ceski23.vercel.app/?preset=2020
+
 ## Building app
 
 1. Run: `npm run build`
